@@ -1,0 +1,3 @@
+[submodule "libraries/LibGeoShield"]
+	path = libraries/LibGeoShield
+	url = git@github.com:chicagozer/LibGeoShield.git
