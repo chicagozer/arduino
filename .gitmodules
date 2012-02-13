@@ -3,7 +3,7 @@
 	url = git@github.com:chicagozer/LibGeoShield.git
 [submodule "libraries/SoftwareSerial_NB"]
 	path = libraries/SoftwareSerial_NB
-	url = git@github.com:chicagozer/LibSoftwareSerial_NB.git
+	url = git@github.com:chicagozer/SoftwareSerial_NB.git
 [submodule "libraries/LibCompass"]
 	path = libraries/LibCompass
 	url = git@github.com:chicagozer/LibCompass.git
