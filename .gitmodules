@@ -4,3 +4,6 @@
 [submodule "libraries/SoftwareSerial_NB"]
 	path = libraries/SoftwareSerial_NB
 	url = git@github.com:chicagozer/LibSoftwareSerial_NB.git
+[submodule "libraries/LibCompass"]
+	path = libraries/LibCompass
+	url = git@github.com:chicagozer/LibCompass.git
