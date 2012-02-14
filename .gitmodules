@@ -7,3 +7,6 @@
 [submodule "libraries/LibCompass"]
 	path = libraries/LibCompass
 	url = git@github.com:chicagozer/LibCompass.git
+[submodule "libraries/IRremote"]
+	path = libraries/IRremote
+	url = git@github.com:chicagozer/Arduino-IRremote.git
